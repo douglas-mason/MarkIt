@@ -1,0 +1,12 @@
+/dist/
+
+/app/*.js
+/app/*.js.map
+
+# packages
+/node_modules/
+
+# vim
+*~
+*.vim
+*.swp
